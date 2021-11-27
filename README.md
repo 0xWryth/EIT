@@ -2,6 +2,8 @@
 
 "Text Extraction" project - Polytech ET5 IT - Noted for S9 (2021-2022)
 
+The goal is to determine the sentiment behind a tweet using Natural Language Processing thanks to PyTorch.
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development purpose.
@@ -43,3 +45,7 @@ This should open up your browser (if it doesn't, visit [127.0.0.1:8888](http://1
 ## Dataset
 
 The file `train_label_final.txt` has been created by class students. Each line is an annotated tweet. Our model only processes 'consensus' annotated lines.
+
+---
+
+Built with ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
