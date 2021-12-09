@@ -17,6 +17,7 @@ Things you need to install the project :
 	- [PyTorch](https://pytorch.org/get-started/locally) library
 	- [Scikit-Learn](http://scikit-learn.org) library
 	- [NumPy](http://numpy.org) library
+	- [spaCy](https://spacy.io) library
 	- [Matplotlib](http://matplotlib.org) library
 
 ### Running
