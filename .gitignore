@@ -57,3 +57,6 @@ ipython_config.py
 *.code-workspace
 .history
 .vscode
+
+# GloVe (pre-trained vectors inputs) cache
+.vector_cache
