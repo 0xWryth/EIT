@@ -60,3 +60,8 @@ ipython_config.py
 
 # GloVe (pre-trained vectors inputs) cache
 .vector_cache
+
+# Temp splitted dataset
+output*.txt
+# Generated exploitable dataset
+dataset*.csv
